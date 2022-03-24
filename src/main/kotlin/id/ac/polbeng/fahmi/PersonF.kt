@@ -31,3 +31,6 @@ fun main() {
     val caca = PersonF("Caca", "Andika", "Indonesia")
     val dono = PersonF("Dono", "Putri", 25, "Indonesia")
 }
+//Note: Terdapat 1 konstruktor utama berwarna kuning dan 3 buah konstruktor tambahan berwarna hijau, merah dan biru.
+// Konstruktor tambahan pertama dan kedua mendelegasikan konstruktor utama.
+// Sedangkan konstruktor tambahan ketiga medelegasikan konstruktor tambahan pertama yang secara tidak langsung juga mendelegasikan konstruktor utama.

@@ -1,6 +1,8 @@
 package id.ac.polbeng.fahmi
 
-// Keyword this merujuk pada konstruktor kelas saat ini yang bersesuaian. Pada contoh diatas this(_firstName, _lastName) merujuk pada konstruktor yang berwarna kuning dan akan memanggilnya terlebih dahulu sebelum kode didalam konstruktor yang berwarna hijau dieksekusi.
+// Keyword this merujuk pada konstruktor kelas saat ini yang bersesuaian.
+// Pada contoh diatas this(_firstName, _lastName) merujuk pada konstruktor yang berwarna kuning
+// dan akan memanggilnya terlebih dahulu sebelum kode didalam konstruktor yang berwarna hijau dieksekusi.
 
 class PersonE {
     var firstName: String
